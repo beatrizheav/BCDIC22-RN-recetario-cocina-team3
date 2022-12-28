@@ -121,7 +121,6 @@ const styles = StyleSheet.create({
   listItemTrending: {
     width: 115,
     height: 192,
-    backgroundColor: 'red',
     padding: '2%'
   },
   imgStyle: {
@@ -134,7 +133,6 @@ const styles = StyleSheet.create({
   listItemRecent: {
     width: 140,
     height: 235,
-    backgroundColor: 'red',
     padding: '1.4%'
   },
   imgStyleRecent: {
