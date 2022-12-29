@@ -12,7 +12,7 @@ export const platillos = [
       },
       {
         qty: "1/4 taza",
-        name: "de jugo de lima",
+        name: "jugo de lima",
       },
       {
         qty: "1",
@@ -28,7 +28,7 @@ export const platillos = [
       },
       {
         qty: "2 tazas",
-        name: "de melón",
+        name: "melón",
       },
       {
         qty: "2 ajíes",
