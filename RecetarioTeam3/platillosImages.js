@@ -1,0 +1,9 @@
+exports.id1 = require('./assets/images/camarones-mango-aguacate.jpg');
+exports.id2 = require('./assets/images/comida1.jpeg');
+exports.id3 = require('./assets/images/empanadas-de-pollo.jpg');
+exports.id4 = require('./assets/images/enchiladas.jpg');
+exports.id5 = require('./assets/images/hotdog.jpeg');
+exports.id6 = require('./assets/images/paella-vegetariana.jpg');
+exports.id7 = require('./assets/images/pollo-melon.jpg');
+exports.id8 = require('./assets/images/sopitos.jpg');
+exports.id9 = require('./assets/images/pupusas-queso-calabacin.jpg');

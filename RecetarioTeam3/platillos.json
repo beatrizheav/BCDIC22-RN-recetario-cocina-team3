@@ -4,7 +4,7 @@
     "trending": true,
     "nombre": "Pollo Asado con Salsa de Melón",
     "servings": 4,
-    "imagePath": "./assets/images/pollo-melon.jpg",
+    "imagePath": "id1",
     "ingredients": [
       {
         "qty": "1/4 taza",
@@ -53,7 +53,7 @@
     "trending": true,
     "nombre": "Empanadas de Pollo",
     "servings": 1,
-    "imagePath": "./assets/images/empanadas-de-pollo.jpg",
+    "imagePath": "id2",
     "ingredients": [
       {
         "qty": "1/4 taza",
@@ -102,7 +102,7 @@
     "trending": true,
     "nombre": "Paella Vegetariana",
     "servings": 1,
-    "imagePath": "./assets/images/paella-vegetariana.jpg",
+    "imagePath": "id3",
     "ingredients": [
       {
         "qty": "2 cucharadas",
@@ -171,7 +171,7 @@
     "trending": true,
     "nombre": "Ceviche de camarones con mango y aguacate",
     "servings": 1,
-    "imagePath": "./assets/images/camarones-mango-aguacate.jpg",
+    "imagePath": "id4",
     "ingredients": [
       {
         "qty": "1 1/2 lbs",
@@ -204,7 +204,7 @@
     "trending": true,
     "nombre": "Pupusas de Queso y Calabacín",
     "servings": 4,
-    "imagePath": "./assets/images/pupusas-queso-calabacin.jpg",
+    "imagePath": "id5",
     "ingredients": [
       {
         "qty": "1",
@@ -229,7 +229,7 @@
     "trending": true,
     "nombre": "Enchiladas Guatemaltecas",
     "servings": 1,
-    "imagePath": "./assets/images/enchiladas.jpg",
+    "imagePath": "id6",
     "ingredients": [
       {
         "qty": "1",
@@ -254,7 +254,7 @@
     "trending": false,
     "nombre": "Sopitos Colimotes",
     "servings": 4,
-    "imagePath": "./assets/images/sopitos.jpg",
+    "imagePath": "id7",
     "ingredients": [
       {
         "qty": "2 docenas",
@@ -283,7 +283,7 @@
     "trending": false,
     "nombre": "Hot Dogs",
     "servings": 3,
-    "imagePath": "./assets/images/hotdog.jpeg",
+    "imagePath": "id8",
     "ingredients": [
       {
         "qty": "3",
@@ -316,7 +316,7 @@
     "trending": false,
     "nombre": "Lasaña",
     "servings": 1,
-    "imagePath": "./assets/images/lasaña.jpg",
+    "imagePath": "id9",
     "ingredients": [
       {
         "qty": "3/4 lb",

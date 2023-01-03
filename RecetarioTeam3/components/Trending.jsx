@@ -1,6 +1,7 @@
 import React from 'react'
 import { View, ScrollView,TouchableOpacity, Image, Text } from 'react-native';
-import { platillos } from "../platillos";
+import data from '../platillos'
+import PlatillosImages from '../platillosImages'
 import EstilosHome from '../screens/styleHome';
 
 const styles = EstilosHome()
@@ -10,7 +11,7 @@ export default function Trending() {
     <Text style={styles.textTittle}>TRENDING</Text>
     {/* Trending */}
     <ScrollView horizontal={true}>
-      {platillos.map((platillo) => {
+      {data.map((platillo) => {
         if (platillo.trending === true) {
           return (
             <View style={styles.listItemTrending} key={platillo.id}>
@@ -23,7 +24,7 @@ export default function Trending() {
               >
                 <Image
                   style={styles.imgStyle}
-                  source={platillo.imagePath}
+                  source={PlatillosImages[platillo.imagePath]}
                 />
               </TouchableOpacity>
               <Text style={styles.textListItem}>{platillo.nombre}</Text>
