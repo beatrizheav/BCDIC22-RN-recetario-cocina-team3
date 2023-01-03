@@ -6,8 +6,8 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-    <img src="https://img.shields.io/github/stars/camilafernanda?style=social">
     <img src="https://img.shields.io/badge/tested_with-jest-99424f.svg" alt="Tested with Jest">
+    <a href="https://codeclimate.com/repos/63b3530d684eb116b50039ee/maintainability"><img src="https://api.codeclimate.com/v1/badges/3e1d61e43ac1ba00e1a9/maintainability" /></a>
 </p>
 
 > **Estamos aprendiendo sobre la marcha :D**
