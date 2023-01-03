@@ -3,9 +3,12 @@ import { View, ScrollView,TouchableOpacity, Image, Text } from 'react-native';
 import data from '../platillos'
 import PlatillosImages from '../platillosImages'
 import EstilosHome from '../screens/styleHome';
+import { useNavigation } from "@react-navigation/native";
 
 const styles = EstilosHome()
+
 export default function Trending() {
+  const navigation = useNavigation()
   return (
     <View>
     <Text style={styles.textTittle}>TRENDING</Text>

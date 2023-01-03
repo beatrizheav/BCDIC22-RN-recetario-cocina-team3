@@ -15,10 +15,10 @@ import {
 } from "react-native";
 
 import { Colors } from "react-native/Libraries/NewAppScreen";
-import { platillos } from "../platillos";
+import platillos  from "../platillos";
 import { useNavigation, useRoute } from "@react-navigation/native";
 import Icon from "react-native-vector-icons/Ionicons";
-
+import PlatillosImages from '../platillosImages'
 import EstilosDetalles from "./styleDetailsFood";
 const styles = EstilosDetalles()
 
@@ -42,7 +42,7 @@ export default function App() {
       <View style={styles.imageContainer}>
         <Image
           style={styles.imageBackground}
-          source={platilloEncontrado.imagePath}
+          source={PlatillosImages[platilloEncontrado.imagePath]}
         />
 
         <View style={styles.iconsContainer}>
