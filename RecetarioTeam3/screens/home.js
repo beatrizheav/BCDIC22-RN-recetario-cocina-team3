@@ -1,3 +1,4 @@
+import { useState, useEffect } from "react";
 import {
   ScrollView,
   StatusBar,
@@ -9,17 +10,20 @@ import {
   Image,
   TouchableOpacity,
 } from "react-native";
-
 import Icon from "react-native-vector-icons/FontAwesome";
-
+import Trending from "../components/Trending";
 import { useNavigation } from "@react-navigation/native";
-import { platillos } from "../platillos";
-
 import EstilosHome from "./styleHome";
+import data from '../platillos.json'
 const styles = EstilosHome()
 
-export default function App() {
+export default function Home() {
+  const [platillos, setPlatillos] = useState("")
+
   const navigation = useNavigation();
+
+
+  console.log(data,'dataa')
   return (
     <View style={styles.container}>
       {/* Componente SearchBar */}
@@ -33,39 +37,12 @@ export default function App() {
         <Icon style={styles.iconMicrophone} name="microphone" size={17} />
       </View>
       {/* Componente HorizontalList */}
-      <View>
-        <Text style={styles.textTittle}>TRENDING</Text>
-        {/* Trending */}
-        <ScrollView horizontal={true}>
-          {platillos.map((platillo) => {
-            if (platillo.trending === true) {
-              return (
-                <View style={styles.listItemTrending} key={platillo.id}>
-                  <TouchableOpacity
-                    onPress={() =>
-                      navigation.navigate("detailsFood", {
-                        cardId: platillo.id,
-                      })
-                    }
-                  >
-                    <Image
-                      style={styles.imgStyle}
-                      source={platillo.imagePath}
-                    />
-                  </TouchableOpacity>
-                  <Text style={styles.textListItem}>{platillo.nombre}</Text>
-                </View>
-              );
-            }
-            return null;
-          })}
-        </ScrollView>
-      </View>
+      {/* <Trending/> */}
       <View>
         <Text style={styles.textTittle}>RECENT</Text>
         {/* Recent */}
         <ScrollView horizontal={true}>
-          {platillos.map((platillo) => {
+          { data.map((platillo) => {
             if (platillo.trending === false) {
               return (
                 <View style={styles.listItemRecent} key={platillo.id}>

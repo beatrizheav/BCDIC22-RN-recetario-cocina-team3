@@ -1,0 +1,343 @@
+[
+  {
+    "id": 1,
+    "trending": true,
+    "nombre": "Pollo Asado con Salsa de Melón",
+    "servings": 4,
+    "imagePath": "./assets/images/pollo-melon.jpg",
+    "ingredients": [
+      {
+        "qty": "1/4 taza",
+        "name": "jugo de naranja"
+      },
+      {
+        "qty": "1/4 taza",
+        "name": "jugo de lima"
+      },
+      {
+        "qty": "1",
+        "name": "diente de ajo"
+      },
+      {
+        "qty": "1/2 cucharada",
+        "name": "comino"
+      },
+      {
+        "qty": "1 lb",
+        "name": "pechugas de pollo"
+      },
+      {
+        "qty": "2 tazas",
+        "name": "melón"
+      },
+      {
+        "qty": "2 ajíes",
+        "name": "serrano"
+      },
+      {
+        "qty": "1/2 taza",
+        "name": "cebolla blanca"
+      },
+      {
+        "qty": "al gusto",
+        "name": "sal"
+      },
+      {
+        "qty": "al gusto",
+        "name": "pimienta"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "trending": true,
+    "nombre": "Empanadas de Pollo",
+    "servings": 1,
+    "imagePath": "./assets/images/empanadas-de-pollo.jpg",
+    "ingredients": [
+      {
+        "qty": "1/4 taza",
+        "name": "mostaza"
+      },
+      {
+        "qty": "3 cucharadas",
+        "name": "miel"
+      },
+      {
+        "qty": "1 cdta",
+        "name": "orégano seco"
+      },
+      {
+        "qty": "1/2 cucharadita",
+        "name": "ajo en polvo"
+      },
+      {
+        "qty": "1 pizca",
+        "name": "pimienta"
+      },
+      {
+        "qty": "2",
+        "name": "pechugas de pollo"
+      },
+      {
+        "qty": "12-15",
+        "name": "masa hojaldrada"
+      },
+      {
+        "qty": "1",
+        "name": "huevo"
+      },
+      {
+        "qty": "1 cdta",
+        "name": "agua"
+      },
+      {
+        "qty": "1 cucharada",
+        "name": "semillas de amapola"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "trending": true,
+    "nombre": "Paella Vegetariana",
+    "servings": 1,
+    "imagePath": "./assets/images/paella-vegetariana.jpg",
+    "ingredients": [
+      {
+        "qty": "2 cucharadas",
+        "name": "ceite de oliva"
+      },
+      {
+        "qty": "1/2 taza",
+        "name": "brócoli"
+      },
+      {
+        "qty": "1/2 taza",
+        "name": "coliflor"
+      },
+      {
+        "qty": "1/2 taza",
+        "name": "calabacín"
+      },
+      {
+        "qty": "1/2 taza",
+        "name": "pimiento rojo"
+      },
+      {
+        "qty": "1/2 taza",
+        "name": "de cebolla"
+      },
+      {
+        "qty": "3",
+        "name": "dientes de ajo"
+      },
+      {
+        "qty": "1 cdta",
+        "name": "hojuelas de pimentón rojo"
+      },
+      {
+        "qty": "2 tazas",
+        "name": "arroz blanco"
+      },
+      {
+        "qty": "1 pizca",
+        "name": "hebras de azafrán"
+      },
+      {
+        "qty": "1 hoja",
+        "name": "laurel"
+      },
+      {
+        "qty": "1/4 de taza",
+        "name": "perejil italiano"
+      },
+      {
+        "qty": "1/4 de galón",
+        "name": "caldo de verduras"
+      },
+      {
+        "qty": "1/2 taza",
+        "name": "garbanzos cocidos"
+      },
+      {
+        "qty": "al gusto",
+        "name": "sal y pimienta"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "trending": true,
+    "nombre": "Ceviche de camarones con mango y aguacate",
+    "servings": 1,
+    "imagePath": "./assets/images/camarones-mango-aguacate.jpg",
+    "ingredients": [
+      {
+        "qty": "1 1/2 lbs",
+        "name": "camarones"
+      },
+      {
+        "qty": "6",
+        "name": "limones"
+      },
+      {
+        "qty": "1",
+        "name": "tomate"
+      },
+      {
+        "qty": "1",
+        "name": "cebolla"
+      },
+      {
+        "qty": "1",
+        "name": "mango"
+      },
+      {
+        "qty": "1",
+        "name": "aguacate"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "trending": true,
+    "nombre": "Pupusas de Queso y Calabacín",
+    "servings": 4,
+    "imagePath": "./assets/images/pupusas-queso-calabacin.jpg",
+    "ingredients": [
+      {
+        "qty": "1",
+        "name": "calabacín"
+      },
+      {
+        "qty": "1/2 libra",
+        "name": "de quesillo rallado"
+      },
+      {
+        "qty": "al gusto",
+        "name": "Sal"
+      },
+      {
+        "qty": "3 tazas",
+        "name": "masa de tortilla"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "trending": true,
+    "nombre": "Enchiladas Guatemaltecas",
+    "servings": 1,
+    "imagePath": "./assets/images/enchiladas.jpg",
+    "ingredients": [
+      {
+        "qty": "1",
+        "name": "remolacha"
+      },
+      {
+        "qty": "al gusto",
+        "name": "queso"
+      },
+      {
+        "qty": "4",
+        "name": "tostadas"
+      },
+      {
+        "qty": "1/2 libra",
+        "name": "carne molida"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "trending": false,
+    "nombre": "Sopitos Colimotes",
+    "servings": 4,
+    "imagePath": "./assets/images/sopitos.jpg",
+    "ingredients": [
+      {
+        "qty": "2 docenas",
+        "name": "sopitos"
+      },
+      {
+        "qty": "1/2 kg",
+        "name": "carne molida"
+      },
+      {
+        "qty": "al gusto",
+        "name": "sal"
+      },
+      {
+        "qty": "250 g",
+        "name": "queso seco"
+      },
+      {
+        "qty": "1 pieza",
+        "name": "lechuga"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "trending": false,
+    "nombre": "Hot Dogs",
+    "servings": 3,
+    "imagePath": "./assets/images/hotdog.jpeg",
+    "ingredients": [
+      {
+        "qty": "3",
+        "name": "pan para hot dog"
+      },
+      {
+        "qty": "3",
+        "name": "salchicha"
+      },
+      {
+        "qty": "3",
+        "name": "jitomate"
+      },
+      {
+        "qty": "3",
+        " name": "cebolla"
+      },
+      {
+        "qty": "al gusto",
+        "name": "salsa ketchup"
+      },
+      {
+        "qty": "al gusto",
+        "name": "mostaza"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "trending": false,
+    "nombre": "Lasaña",
+    "servings": 1,
+    "imagePath": "./assets/images/lasaña.jpg",
+    "ingredients": [
+      {
+        "qty": "3/4 lb",
+        "name": "carne"
+      },
+      {
+        "qty": "3",
+        "name": "ajo"
+      },
+      {
+        "qty": "1",
+        "name": "tomate"
+      },
+      {
+        "qty": "1",
+        "name": "Huevo"
+      },
+      {
+        "qty": "1 paquete",
+        "name": "pasta"
+      }
+    ]
+  }
+]
