@@ -36,7 +36,7 @@ npm run android
 ## Tecnologías
 - ESLint
 - Jest
-- Codacy
+- CodeClimate
 
 ## Créditos
 | [<img src="https://avatars.githubusercontent.com/u/116323123?v=4" width=115><br><sub>Esmeralda Flores</sub>](https://github.com/FloresEsme) |  [<img src="https://avatars.githubusercontent.com/u/116601645?v=4" width=115><br><sub>Beatriz Ávila</sub>](https://github.com/beatrizheav) |  [<img src="https://avatars.githubusercontent.com/u/87275990?v=4" width=115><br><sub>Alexander Garzo</sub>](https://github.com/garzo94) |
