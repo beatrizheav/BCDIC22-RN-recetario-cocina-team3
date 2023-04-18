@@ -1,6 +1,5 @@
 <h1 align="center">
     <p align="center">CookBook Mobile App</p>
-    <img src="img/logo.png" alt="Brigthcoders">
 </p>
 </h1>
 
