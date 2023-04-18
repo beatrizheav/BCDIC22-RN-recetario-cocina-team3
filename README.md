@@ -44,6 +44,13 @@ npm run android
 - Jest
 - CodeClimate
 
+## Proposed design
+[Proposed design files](/design)
+
+## Results
+<img width="269" alt="Captura de Pantalla 2023-04-18 a la(s) 16 34 33" src="https://user-images.githubusercontent.com/116601645/232919843-f7f20a76-b900-451b-a52f-9b272054513f.png">
+<img width="259" alt="Captura de Pantalla 2023-04-18 a la(s) 16 34 43" src="https://user-images.githubusercontent.com/116601645/232919873-0264cc42-dba4-4cd6-8a1d-9fe9c686cebd.png">
+
 ## Credits
 | [<img src="https://avatars.githubusercontent.com/u/116323123?v=4" width=115><br><sub>Esmeralda Flores</sub>](https://github.com/FloresEsme) |  [<img src="https://avatars.githubusercontent.com/u/116601645?v=4" width=115><br><sub>Beatriz Ávila</sub>](https://github.com/beatrizheav) |  [<img src="https://avatars.githubusercontent.com/u/87275990?v=4" width=115><br><sub>Alexander Garzo</sub>](https://github.com/garzo94) |
 | :---: | :---: | :---: |
