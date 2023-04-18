@@ -18,6 +18,9 @@
 - [Credits](#credits)
 
 ## Description
+This cookbook project, consists of a FrontEnd challenge, whose objective was:
+-To create a home screen where the user sees the recommended recipes and those that have been given as favorites.
+-Have the option to select one to see its details. 
 
 ## How to install and run the project
 Clone the github repository. You must have React Native installed in the Expo development environment and have an emulator or an android device.
